@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5758c83d-ea33-48a2-8f2c-dbb031dedd91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Ziaulhaq11/pythontim.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dU36CO6H7Uz2GwbNeybMZTNXMY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/3rd project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.debug">
+    <configuration name="chainconditions" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythontim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Ziaulhaq\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chainconditions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="debug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythontim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.chainconditions" />
+      <item itemvalue="Python.debug" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.debug" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5758c83d-ea33-48a2-8f2c-dbb031dedd91" name="Default Changelist" comment="" />
+      <created>1592465666908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592465666908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Notifications" timestamp="1592480574069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1592480574069" />
+    <state x="552" y="179" key="#Scopes" timestamp="1592466870488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1592466870488" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592476032895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592476032895" />
+    <state x="715" y="223" key="#xdebugger.evaluate" timestamp="1592488960609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="223" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1592488960609" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1592495404415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592495404415" />
+    <state width="1899" height="286" key="GridCell.Tab.0.bottom" timestamp="1592495304865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592495304865" />
+    <state width="1899" height="286" key="GridCell.Tab.0.center" timestamp="1592495304865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592495304865" />
+    <state width="1899" height="286" key="GridCell.Tab.0.left" timestamp="1592495304865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592495304865" />
+    <state width="1899" height="286" key="GridCell.Tab.0.right" timestamp="1592495304865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592495304865" />
+    <state width="1899" height="286" key="GridCell.Tab.1.bottom" timestamp="1592495304865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592495304865" />
+    <state width="1899" height="286" key="GridCell.Tab.1.center" timestamp="1592495304865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592495304865" />
+    <state width="1899" height="286" key="GridCell.Tab.1.left" timestamp="1592495304865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592495304865" />
+    <state width="1899" height="286" key="GridCell.Tab.1.right" timestamp="1592495304865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592495304865" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1592476129459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592476129459" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1592476586308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592476586308" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592495396885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592495396885" />
+    <state x="531" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592466447772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1592466447772" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1592476500199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592476500199" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="ans.isdigit()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
